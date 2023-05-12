@@ -1,0 +1,19 @@
+{
+    "name": "sar-cubet/simple-login",
+    "description": "provides an interface for the user to login and logout",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SarCubet\\SimpleLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sarath",
+            "email": "sarath.snairc@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
